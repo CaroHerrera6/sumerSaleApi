@@ -1,0 +1,30 @@
+[
+  {
+    "product": 5,
+    "score": 3,
+    "description": "A bit too much",
+    "user": "juan_pedro",
+    "dateTime": "2020-02-25 18:03:52"
+  },
+  {
+    "product": 5,
+    "score": 5,
+    "description": "My boyfriend got it for me and absolutely loved it!",
+    "user": "maria_sanchez",
+    "dateTime": "2020-01-17 13:42:18"
+  },
+  {
+    "product": 5,
+    "score": 4,
+    "description": "Liked the ring but the shipping took too long",
+    "user": "paola_perez",
+    "dateTime": "2020-03-14 09:05:13"
+  },
+  {
+    "product": 5,
+    "score": 5,
+    "description": "Super chic!",
+    "user": "gustavo_trelles",
+    "dateTime": "2020-02-21 15:05:22"
+  }
+]

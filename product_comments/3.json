@@ -1,0 +1,30 @@
+[
+  {
+    "product": 3,
+    "score": 5,
+    "description": "Beautiful jacket",
+    "user": "saul_dominguez",
+    "dateTime": "2022-04-18 13:20:56"
+  },
+  {
+    "product": 3,
+    "score": 5,
+    "description": "Amazing quality",
+    "user": "lucia_ralek",
+    "dateTime": "2022-04-05 11:20:09"
+  },
+  {
+    "product": 3,
+    "score": 5,
+    "description": "True cotton!",
+    "user": "mateo_diestre",
+    "dateTime": "2022-03-21 22:38:39"
+  },
+  {
+    "product": 3,
+    "score": 5,
+    "description": "It's so comfy I get a newone every year",
+    "user": "ralph_baer",
+    "dateTime": "2022-01-04 11:16:48"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "product": 1,
+    "score": 5,
+    "description": "It's great!",
+    "user": "silvia_fagundez",
+    "dateTime": "2021-02-20 14:00:42"
+  },
+  {
+    "product": 1,
+    "score": 4,
+    "description": "Fits perfect, a bit heavy but ok",
+    "user": "majo_sanchez",
+    "dateTime": "2021-01-11 16:26:10"
+  },
+  {
+    "product": 1,
+    "score": 5,
+    "description": "Loved it",
+    "user": "raul_añez",
+    "dateTime": "2020-12-16 19:55:19"
+  },
+  {
+    "product": 1,
+    "score": 1,
+    "description": "Nothing like the picture!",
+    "user": "flynn_rider",
+    "dateTime": "2020-02-14 23:19:09"
+  }
+]

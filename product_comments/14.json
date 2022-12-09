@@ -1,0 +1,30 @@
+[
+  {
+    "product": 14,
+    "score": 5,
+    "description": "I've been saving for this TV for so long and I don't regret it!",
+    "user": "saul_dominguez",
+    "dateTime": "2022-04-18 13:20:56"
+  },
+  {
+    "product": 14,
+    "score": 5,
+    "description": "Amazing quality",
+    "user": "lucia_ralek",
+    "dateTime": "2022-04-05 11:20:09"
+  },
+  {
+    "product": 14,
+    "score": 5,
+    "description": "It's like going to the movies",
+    "user": "mateo_diestre",
+    "dateTime": "2022-03-21 22:38:39"
+  },
+  {
+    "product": 14,
+    "score": 5,
+    "description": "Great deal!!!",
+    "user": "ralph_baer",
+    "dateTime": "2022-01-04 11:16:48"
+  }
+]

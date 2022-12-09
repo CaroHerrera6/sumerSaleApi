@@ -1,0 +1,30 @@
+[
+  {
+    "product": 4,
+    "score": 5,
+    "description": "I like the way it fits",
+    "user": "ignacio_paremon",
+    "dateTime": "2021-12-24 23:59:59"
+  },
+  {
+    "product": 4,
+    "score": 2,
+    "description": "The colour is not sligthly different, it's completely another colour",
+    "user": "mia_barboza",
+    "dateTime": "2021-09-15 01:27:19"
+  },
+  {
+    "product": 4,
+    "score": 3,
+    "description": "It's good but you can tell it won't last",
+    "user": "julian_surech",
+    "dateTime": "2021-03-24 20:11:19"
+  },
+  {
+    "product": 4,
+    "score": 4,
+    "description": "It's fair quality for the price",
+    "user": "mariana_pajon",
+    "dateTime": "2021-01-18 05:22:50"
+  }
+]

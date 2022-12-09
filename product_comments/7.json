@@ -1,0 +1,23 @@
+[
+  {
+    "product": 7,
+    "score": 5,
+    "description": "My wife loved it",
+    "user": "alfredo_bioy",
+    "dateTime": "2022-02-15 20:19:20"
+  },
+  {
+    "product": 7,
+    "score": 4,
+    "description": "It's a nice ring",
+    "user": "pablo_cibeles",
+    "dateTime": "2021-05-24 19:25:43"
+  },
+  {
+    "product": 7,
+    "score": 5,
+    "description": "Great present",
+    "user": "santiago_urrutia",
+    "dateTime": "2020-12-03 14:15:33"
+  }
+]
